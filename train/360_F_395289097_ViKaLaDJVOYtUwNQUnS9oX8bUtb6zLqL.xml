@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>360_F_395289097_ViKaLaDJVOYtUwNQUnS9oX8bUtb6zLqL.jpg</filename>
+	<path>/home/olamilekan/dog_pooping/train/360_F_395289097_ViKaLaDJVOYtUwNQUnS9oX8bUtb6zLqL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog_pooping</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>124</ymin>
+			<xmax>405</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

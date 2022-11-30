@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Dog-Looks-at-me-While-Pooping-900x500.jpg</filename>
+	<path>/home/olamilekan/dog_pooping/train/Dog-Looks-at-me-While-Pooping-900x500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog_pooping</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>74</ymin>
+			<xmax>688</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>

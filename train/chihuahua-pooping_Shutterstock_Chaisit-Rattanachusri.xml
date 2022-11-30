@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>chihuahua-pooping_Shutterstock_Chaisit-Rattanachusri.jpg</filename>
+	<path>/home/olamilekan/dog_pooping/train/chihuahua-pooping_Shutterstock_Chaisit-Rattanachusri.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog_pooping</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>123</ymin>
+			<xmax>541</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>

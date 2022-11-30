@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validate</folder>
+	<filename>-over-grass-spreading-its-paws-deification-animal-forest-big-black-235441665.jpg</filename>
+	<path>/home/olamilekan/dog_pooping/validate/-over-grass-spreading-its-paws-deification-animal-forest-big-black-235441665.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog_pooping</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>54</ymin>
+			<xmax>654</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+</annotation>

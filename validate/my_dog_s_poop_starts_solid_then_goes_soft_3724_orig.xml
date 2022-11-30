@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validate</folder>
+	<filename>my_dog_s_poop_starts_solid_then_goes_soft_3724_orig.jpg</filename>
+	<path>/home/olamilekan/dog_pooping/validate/my_dog_s_poop_starts_solid_then_goes_soft_3724_orig.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>735</width>
+		<height>475</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog_pooping</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>123</ymin>
+			<xmax>522</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>
